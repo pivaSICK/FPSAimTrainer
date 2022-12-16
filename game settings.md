@@ -14,10 +14,3 @@
 ![FPSAimTrainer-Win64-Shipping_Rbb8GSHUPk](https://user-images.githubusercontent.com/112624326/208189129-1db9f0f8-dd14-443c-a1ab-0f41d4afedc7.png)
 
 ![FPSAimTrainer-Win64-Shipping_QLRKXRKGwA](https://user-images.githubusercontent.com/112624326/208189146-70ca5f54-29d6-4992-bea5-5b5b3d753dd3.png)
-
-
-
-
-
-
-https://www.youtube.com/watch?v=jltqnl3GZPk
